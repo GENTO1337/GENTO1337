@@ -89,6 +89,22 @@ Developer yang suka belajar teknologi baru dan dunia security.<br>
 # 📊 Stats:
 <div align="center">
 
+### 📊 GitHub & Security Stats
+
+<p align="center">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=GENTO1337&style=for-the-badge&color=00FF66&labelColor=1a1a1a&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GENTO1337&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GENTO1337&theme=dark&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&hide_border=true" alt="GitHub Streak" />
+</p>
 ![stats](https://github-readme-stats.vercel.app/api?username=GENTO1337&show_icons=true&theme=matrix&hide_border=true&bg_color=000000)
 ![streak](https://streak-stats.demolab.com?user=GENTO1337&theme=dark&background=000000&ring=00FF41&fire=00FF41&hide_border=true)
 
