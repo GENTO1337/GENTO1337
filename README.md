@@ -89,6 +89,11 @@ Developer yang suka belajar teknologi baru dan dunia security.<br>
 # 📊 Stats:
 <div align="center">
 
+![stats](https://github-readme-stats.vercel.app/api?username=GENTO1337&show_icons=true&theme=matrix&hide_border=true&bg_color=000000)
+![streak](https://streak-stats.demolab.com?user=GENTO1337&theme=dark&background=000000&ring=00FF41&fire=00FF41&hide_border=true)
+
+</div>
+
 ### 📊 GitHub & Security Stats
 
 <p align="center">
@@ -105,9 +110,5 @@ Developer yang suka belajar teknologi baru dan dunia security.<br>
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GENTO1337&theme=dark&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&hide_border=true" alt="GitHub Streak" />
 </p>
-![stats](https://github-readme-stats.vercel.app/api?username=GENTO1337&show_icons=true&theme=matrix&hide_border=true&bg_color=000000)
-![streak](https://streak-stats.demolab.com?user=GENTO1337&theme=dark&background=000000&ring=00FF41&fire=00FF41&hide_border=true)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=100&section=footer" width="100%"/>
