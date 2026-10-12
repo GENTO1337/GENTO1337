@@ -105,5 +105,3 @@ Developer yang suka belajar teknologi baru dan dunia security.<br>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=100&section=footer" width="100%"/>
-
-hacked
