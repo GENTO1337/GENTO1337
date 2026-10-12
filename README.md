@@ -89,8 +89,8 @@ Developer yang suka belajar teknologi baru dan dunia security.<br>
 # 📊 Stats:
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=Fahmigans1337&show_icons=true&theme=matrix&hide_border=true&bg_color=000000)
-![streak](https://streak-stats.demolab.com?user=Fahmigans1337&theme=dark&background=000000&ring=00FF41&fire=00FF41&hide_border=true)
+![stats](https://github-readme-stats.vercel.app/api?username=GENTO1337&show_icons=true&theme=matrix&hide_border=true&bg_color=000000)
+![streak](https://streak-stats.demolab.com?user=GENTO1337&theme=dark&background=000000&ring=00FF41&fire=00FF41&hide_border=true)
 
 </div>
 
