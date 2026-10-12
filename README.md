@@ -86,13 +86,6 @@ Developer yang suka belajar teknologi baru dan dunia security.<br>
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/USERNAME)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/USERNAME)
 
-# 📊 Stats:
-<div align="center">
-
-![stats](https://github-readme-stats.vercel.app/api?username=GENTO1337&show_icons=true&theme=matrix&hide_border=true&bg_color=000000)
-![streak](https://streak-stats.demolab.com?user=GENTO1337&theme=dark&background=000000&ring=00FF41&fire=00FF41&hide_border=true)
-
-</div>
 
 ### 📊 GitHub & Security Stats
 
